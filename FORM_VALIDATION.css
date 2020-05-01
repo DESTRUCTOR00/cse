@@ -1,10 +1,10 @@
 /*============= WHOLE BODY ==============*/
 body{
-    background-image: url(Images/sen2.jpg);
+    background-image: url(images/sen2.jpg);
 }
 /*============ FORM BOX ================*/
 #form{
-    background-image: url(Images/sense.jpg);
+    background-image: url(images/sense.jpg);
     width: 300px;
     padding: 10px;
     color: black;
